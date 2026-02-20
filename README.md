@@ -1,4 +1,4 @@
-# Camilly Nau 👋
+# Camilly Nau
 
 ## Sobre mim
 
