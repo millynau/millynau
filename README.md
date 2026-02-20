@@ -1,6 +1,12 @@
-## Hi there 👋
+# Camilly Nau 👋
 
-<!--
+## Sobre mim
+
+## Interesses
+
+ADS e programação.
+
+Tenho 20 anos, gosto muito da área e quero me formar em t.i.
 **millynau/millynau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
